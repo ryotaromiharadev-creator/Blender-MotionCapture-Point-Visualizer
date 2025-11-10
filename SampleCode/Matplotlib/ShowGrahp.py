@@ -6,6 +6,7 @@ sys.path.append(evnPath)
 import bpy
 import os
 
+import numpy as np
 import matplotlib.pyplot as plt
 
 dt = 1/240
